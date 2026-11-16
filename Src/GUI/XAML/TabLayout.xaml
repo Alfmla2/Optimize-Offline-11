@@ -1,0 +1,5 @@
+<TabItem Header="{TabHeader}" Name="{Name}">
+	<Grid Name="{Name}Grid" Background="#FF1E1E1E">
+		{TabContent}
+	</Grid>
+</TabItem>

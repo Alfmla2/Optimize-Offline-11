@@ -1,0 +1,7 @@
+<TabItem Header="{TabHeader}" Name="{Name}">
+	<ScrollViewer>
+		<Grid Name="{Name}Grid" Background="#FF1E1E1E">
+			{TabContent}
+		</Grid>
+	</ScrollViewer>
+</TabItem>

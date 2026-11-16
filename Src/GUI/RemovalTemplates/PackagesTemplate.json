@@ -1,0 +1,86 @@
+﻿[
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~ru-RU~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Ethernet-Client-Intel-E2f68-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Ethernet-Client-Realtek-Rtcx21x64-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~10.0.26100.1"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-FodMetadataServicing-Desktop-CompDB-Package~31bf3856ad364e35~amd64~~10.0.26100.1"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-FodMetadataServicing-Desktop-Metadata-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-LanguageFeatures-Basic-en-us-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Licenses-EnterpriseS-Package~31bf3856ad364e35~amd64~~10.0.26100.8037"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Licenses-EnterpriseS-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.8457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Licenses-EnterpriseS-Package~31bf3856ad364e35~amd64~ru-RU~10.0.26100.8457"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-SenseClient-FoD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-SenseClient-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.9457"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-SenseClient-FoD-Package~31bf3856ad364e35~amd64~ru-RU~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Wifi-Client-Intel-Netwtw08-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Wifi-Client-Intel-Netwtw10-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Wifi-Client-Realtek-Rtwlane13-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  true,
+        "PackageName":  "Microsoft-Windows-Wifi-Client-Realtek-Rtwlane-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-WMIC-FoD-Package~31bf3856ad364e35~wow64~~10.0.26100.9457"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-WMIC-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.26100.1"
+    },
+    {
+        "Selected":  false,
+        "PackageName":  "Microsoft-Windows-WMIC-FoD-Package~31bf3856ad364e35~wow64~ru-RU~10.0.26100.1"
+    }
+]

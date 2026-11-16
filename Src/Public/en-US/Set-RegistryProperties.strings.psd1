@@ -1,0 +1,33 @@
+﻿ConvertFrom-StringData -StringData @'
+DisableTelemetry                    = Disabling System Telemetry, Logging, Data Collecting and Advertisements.
+DisableTracking                     = Disabling Windows Tracking.
+DisablePassReveal                   = Disabling the Password Reveal Button.
+DisableSharedExperiences            = Disabling Cross-Device Sharing and Shared Experiences.
+DisableNotifications                = Disabling Microsoft Toast and Lockscreen Notifications.
+DisableAutoplayAutorun              = Disabling Connected Drive Autoplay and Autorun.
+DisableFileBlocking                 = Disabling Automatic Download File Blocking.
+DisableModernUISwapFile             = Disabling the Modern UI Swap File.
+DisableReservedStorage              = Disabling Reserved Storage.
+DisableAutoCleanup                  = Disabling the Automatic Clean-up of Downloads by Storage Sense.
+DisableLogonAnimation               = Disabling the First Log-on Animation.
+DisableStartupSound                 = Disabling the Windows Start-up Sound.
+DisableGetMoreNotification          = Disabling the Get More out of Windows Start-up Notification.
+EnableDriveLetterBeforeDriveName    = Enabling the Driver Letter before Drive Name.
+EnableLaunchToThisPC                = Enabling File Explorer Launch to This PC.
+DisableJPEGQualityReduction         = Disabling Wallpaper .JPEG Quality Reduction.
+DisableShortcutText                 = Disabling the Trailing Text for Shortcuts.
+EnableCombineIcons                  = Enabling TaskBar Icon Combining.
+ReduceStartMenuDelay                = Reducing Start Menu Delay.
+DisableOpenFilePrompt               = Disabling the Open File Prompt.
+EnableThisPCDesktop                 = Enabling This PC Desktop Icon.
+RemoveEditPaintPrintContextMenu     = Removing Edit with Paint 3D and 3D Print from the Context Menu.
+RemoveUserFoldersExplorer           = Removing User Folders from Explorer.
+IncreaseIconCache                   = Increasing the Icon Cache Size.
+DisableStickyKeysPrompt             = Disabling the Sticky Keys Prompt.
+DisableEnhancedPointerPrecision     = Disabling Enhanced Pointer Precision.
+RemoveAccessShareCastContextMenu    = Removing Give Access To, Share and Cast To Device from the Context Menu.
+RemoveRestorePreviousVersions       = Removing Restore Previous Versions from the Context Menu.
+EnableLongFilePaths                 = Enabling Long File Paths.
+EnableStrongCrypto                  = Enabling Strong Cryptography for .NET Applications.
+EnablePrintScreenKeyForSnipping     = Enable Printscreen key to open snipping app
+'@

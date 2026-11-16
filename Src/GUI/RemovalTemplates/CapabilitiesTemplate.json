@@ -1,0 +1,34 @@
+﻿[
+    {
+        "Selected":  false,
+        "Name":  "Language.Basic~~~en-US~0.0.1.0"
+    },
+    {
+        "Selected":  true,
+        "Name":  "Microsoft.Windows.Ethernet.Client.Intel.E2f68~~~~0.0.1.0"
+    },
+    {
+        "Selected":  true,
+        "Name":  "Microsoft.Windows.Ethernet.Client.Realtek.Rtcx21x64~~~~0.0.1.0"
+    },
+    {
+        "Selected":  false,
+        "Name":  "Microsoft.Windows.Sense.Client~~~~"
+    },
+    {
+        "Selected":  true,
+        "Name":  "Microsoft.Windows.Wifi.Client.Intel.Netwtw08~~~~0.0.1.0"
+    },
+    {
+        "Selected":  true,
+        "Name":  "Microsoft.Windows.Wifi.Client.Intel.Netwtw10~~~~0.0.1.0"
+    },
+    {
+        "Selected":  true,
+        "Name":  "Microsoft.Windows.Wifi.Client.Realtek.Rtwlane~~~~0.0.1.0"
+    },
+    {
+        "Selected":  true,
+        "Name":  "Microsoft.Windows.Wifi.Client.Realtek.Rtwlane13~~~~0.0.1.0"
+    }
+]

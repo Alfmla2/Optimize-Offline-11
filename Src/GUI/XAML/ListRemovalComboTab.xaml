@@ -1,0 +1,49 @@
+<Grid.ColumnDefinitions>
+	<ColumnDefinition Width="*"/>
+</Grid.ColumnDefinitions>
+<Grid.RowDefinitions>
+	<RowDefinition />
+</Grid.RowDefinitions>
+<DockPanel Grid.Row="0" Grid.Column="0" Margin="0">
+	<DockPanel DockPanel.Dock="Top">
+		<Label VerticalAlignment="Center" DockPanel.Dock="Left" Content="Filter: " Foreground="#FF00E676"/>
+		<TextBox DockPanel.Dock="Right" Margin="5,10,5,5" Padding="4" Name="{ListType}ListFilter" Background="#FF2D2D2D" Foreground="#FFE0E0E0" BorderBrush="#FF3E3E3E" CaretBrush="#FFE0E0E0" />
+	</DockPanel>
+	<ListView  HorizontalAlignment="Stretch" Name="{ListType}ListView"
+	Margin="5" IsSynchronizedWithCurrentItem="False" SelectionMode="Multiple"
+	Background="#FF1E1E1E" Foreground="#FFE0E0E0" BorderBrush="#FF3E3E3E">
+		<ListView.View>
+			<GridView>
+				{Columns}
+			</GridView>
+		</ListView.View>
+		<ListView.Resources>
+			<Style TargetType="{x:Type ListViewItem}">
+				<Setter Property="Focusable" Value="false"/>
+				<Setter Property="Background" Value="Transparent"/>
+				<Setter Property="Foreground" Value="#FFE0E0E0"/>
+				<Setter Property="Padding" Value="2,1"/>
+				<Style.Triggers>
+					<Trigger Property="IsMouseOver" Value="True">
+						<Setter Property="Background" Value="#FF2D2D2D"/>
+					</Trigger>
+					<Trigger Property="IsSelected" Value="True">
+						<Setter Property="Background" Value="#FF0A5A96"/>
+						<Setter Property="Foreground" Value="#FFFFFFFF"/>
+					</Trigger>
+				</Style.Triggers>
+			</Style>
+			<Style TargetType="{x:Type GridViewColumnHeader}">
+				<Setter Property="Background" Value="#FF252525"/>
+				<Setter Property="Foreground" Value="#FFE0E0E0"/>
+				<Setter Property="BorderBrush" Value="#FF3E3E3E"/>
+				<Setter Property="Padding" Value="6,3"/>
+				<Style.Triggers>
+					<Trigger Property="IsMouseOver" Value="True">
+						<Setter Property="Background" Value="#FF333333"/>
+					</Trigger>
+				</Style.Triggers>
+			</Style>
+		</ListView.Resources>
+	</ListView>
+</DockPanel>
