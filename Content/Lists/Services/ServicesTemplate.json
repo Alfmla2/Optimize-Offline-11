@@ -1,0 +1,2009 @@
+﻿{
+    "__Info":  [
+                   "0 = Boot",
+                   "1 = System",
+                   "2 = Automatic",
+                   "3 = Manual",
+                   "4 = Disabled"
+               ],
+    "Services":  [
+                     {
+                         "name":  "AarSvc",
+                         "description":  "Agent Activation Runtime",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Acx01000",
+                         "description":  "Acx01000",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ADPSvc",
+                         "description":  "Служба платформы агрегированных данных",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ALG",
+                         "description":  "Служба шлюза уровня приложения",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppID",
+                         "description":  "Драйвер AppID",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppIDSvc",
+                         "description":  "Удостоверение приложения",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Appinfo",
+                         "description":  "Сведения о приложении",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "applockerfltr",
+                         "description":  "Драйвер фильтра Smartlocker",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppMgmt",
+                         "description":  "@appmgmts.dll,-3250",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppReadiness",
+                         "description":  "Готовность приложений",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppvStrm",
+                         "description":  "@%systemroot%\\system32\\drivers\\AppvStrm.sys,-101",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppvVemgr",
+                         "description":  "@%systemroot%\\system32\\drivers\\AppvVemgr.sys,-101",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppvVfs",
+                         "description":  "@%systemroot%\\system32\\drivers\\AppvVfs.sys,-101",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AppXSvc",
+                         "description":  "Служба развертывания AppX (AppXSVC)",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "ApxSvc",
+                         "description":  "Прокси-служба виртуального звукового устройства Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AssignedAccessManagerSvc",
+                         "description":  "@%SystemRoot%\\system32\\assignedaccessmanagersvc.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AudioEndpointBuilder",
+                         "description":  "Средство построения конечных точек Windows Audio",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "Audiosrv",
+                         "description":  "Windows Audio",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "autotimesvc",
+                         "description":  "Время в сети мобильной связи",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "AxInstSV",
+                         "description":  "Установщик ActiveX (AxInstSV)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "BcastDVRUserService",
+                         "description":  "Пользовательская служба DVR для игр и трансляции",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "BDESVC",
+                         "description":  "Служба шифрования дисков BitLocker",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "BFE",
+                         "description":  "Служба базовой фильтрации",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "bfs",
+                         "description":  "Файловая система посредника",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "bindflt",
+                         "description":  "Windows Bind Filter Driver",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "BITS",
+                         "description":  "Фоновая интеллектуальная служба передачи (BITS)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "BluetoothUserService",
+                         "description":  "Служба поддержки пользователей Bluetooth",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "bowser",
+                         "description":  "Браузер",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "BTAGService",
+                         "description":  "Служба звукового шлюза Bluetooth",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "BthAvctpSvc",
+                         "description":  "Служба AVCTP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "bthserv",
+                         "description":  "Служба поддержки Bluetooth",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "camsvc",
+                         "description":  "Служба диспетчера доступа к возможностям",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "CaptureService",
+                         "description":  "CaptureService",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "cbdhsvc",
+                         "description":  "Пользовательская служба буфера обмена",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "CDD",
+                         "description":  "Канонический драйвер дисплея",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "CDPSvc",
+                         "description":  "Служба платформы подключенных устройств",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "CDPUserSvc",
+                         "description":  "Служба пользователя платформы подключенных устройств",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "CertPropSvc",
+                         "description":  "Распространение сертификата",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "CldFlt",
+                         "description":  "Windows Cloud Files Filter Driver",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "ClipSVC",
+                         "description":  "Служба лицензий клиента (ClipSVC)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "CloudBackupRestoreSvc",
+                         "description":  "Облачная служба резервного копирования и восстановления",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "cloudidsvc",
+                         "description":  "@%SystemRoot%\\system32\\cloudidsvc.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "COMSysApp",
+                         "description":  "Системное приложение COM+",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "condrv",
+                         "description":  "Console Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ConsentUxUserSvc",
+                         "description":  "Служба пользователя ConsentUX",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "CredentialEnrollmentManagerUserSvc",
+                         "description":  "CredentialEnrollmentManagerUserSvc",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "CscService",
+                         "description":  "@%systemroot%\\system32\\cscsvc.dll,-200",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "dcsvc",
+                         "description":  "Служба объявленной конфигурации (DC)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "defragsvc",
+                         "description":  "Оптимизация дисков",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DeviceAssociationBrokerSvc",
+                         "description":  "DeviceAssociationBroker",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DeviceAssociationService",
+                         "description":  "Служба сопоставления устройств",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DeviceInstall",
+                         "description":  "Служба установки устройств",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DevicePickerUserSvc",
+                         "description":  "DevicePicker",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DevicesFlowUserSvc",
+                         "description":  "DevicesFlow",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DevQueryBroker",
+                         "description":  "Брокер фонового обнаружения DevQuery",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Dhcp",
+                         "description":  "DHCP-клиент",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "diagsvc",
+                         "description":  "@%systemroot%\\system32\\DiagSvc.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DiagTrack",
+                         "description":  "@%SystemRoot%\\system32\\diagtrack.dll,-3001",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "DispBrokerDesktopSvc",
+                         "description":  "Служба политики отображения",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "DisplayEnhancementService",
+                         "description":  "Служба улучшения отображения",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DmEnrollmentSvc",
+                         "description":  "Служба регистрации управления устройством",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "dmwappushservice",
+                         "description":  "@%SystemRoot%\\system32\\dmwappushsvc.dll,-200",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Dnscache",
+                         "description":  "DNS-клиент",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "DoSvc",
+                         "description":  "Оптимизация доставки",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "dot3svc",
+                         "description":  "Проводная автонастройка",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DPS",
+                         "description":  "Служба политики диагностики",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "DsSvc",
+                         "description":  "Служба совместного доступа к данным",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "DusmSvc",
+                         "description":  "Использование данных",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "EapHost",
+                         "description":  "Расширяемый протокол проверки подлинности (EAP)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "edgeupdate",
+                         "description":  "Служба \"Обновление Microsoft Edge\" (edgeupdate)",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "edgeupdatem",
+                         "description":  "Служба \"Обновление Microsoft Edge\" (edgeupdatem)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "EFS",
+                         "description":  "Шифрованная файловая система (EFS)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "embeddedmode",
+                         "description":  "Встроенный режим",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "EntAppSvc",
+                         "description":  "Служба управления корпоративными приложениями",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "EventSystem",
+                         "description":  "Система событий COM+",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "ExecutionContext",
+                         "description":  "CPU Scheduler for High Performance I/O",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "exfat",
+                         "description":  "exFAT File System Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "fastfat",
+                         "description":  "FAT12/16/32 File System Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "fdPHost",
+                         "description":  "Хост поставщика функции обнаружения",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "FDResPub",
+                         "description":  "Публикация ресурсов обнаружения функции",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "fhsvc",
+                         "description":  "Служба истории файлов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Filetrace",
+                         "description":  "Filetrace",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "FontCache",
+                         "description":  "Служба кэша шрифтов Windows",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "FrameServer",
+                         "description":  "Сервер кадров камеры Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "FrameServerMonitor",
+                         "description":  "Монитор сервера кадров камеры Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "FsDepends",
+                         "description":  "File System Dependency Minifilter",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "GameInputSvc",
+                         "description":  "GameInput Service",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "GPIOClx0101",
+                         "description":  "Microsoft GPIO Class Extension Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "GraphicsPerfSvc",
+                         "description":  "GraphicsPerfSvc",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "hidserv",
+                         "description":  "Доступ к HID-устройствам",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "HidSpiCx",
+                         "description":  "HidSpi KMDF Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "hpatchmon",
+                         "description":  "Hotpatch Monitoring Service",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "HTTP",
+                         "description":  "HTTP-служба",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "HvHost",
+                         "description":  "Служба узла HV",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "HwNClx0101",
+                         "description":  "Microsoft Hardware Notifications Class Extension Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "icssvc",
+                         "description":  "Служба Windows Mobile Hotspot",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "IKEEXT",
+                         "description":  "Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинности",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "IndirectKmd",
+                         "description":  "Драйвер режима ядра непрямых дисплеев",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "InstallService",
+                         "description":  "Служба установки Microsoft Store",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "InventorySvc",
+                         "description":  "@%SystemRoot%\\system32\\inventorysvc.dll,-501",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "IpFilterDriver",
+                         "description":  "Драйвер фильтра IP-трафика",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "iphlpsvc",
+                         "description":  "Вспомогательная служба IP",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "IPNAT",
+                         "description":  "IP Network Address Translator",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "IPT",
+                         "description":  "IPT",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "IpxlatCfgSvc",
+                         "description":  "Служба настройки преобразования IP-адресов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "IsoEnvBroker",
+                         "description":  "@%SystemRoot%\\system32\\IsoEnvBroker.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "IsolationSession",
+                         "description":  "@%SystemRoot%\\system32\\IsoSessionServer.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "kbldfltr",
+                         "description":  "",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "KeyIso",
+                         "description":  "Изоляция ключей CNG",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ksthunk",
+                         "description":  "Kernel Streaming Thunks",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "KtmRm",
+                         "description":  "KtmRm для координатора распределенных транзакций",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "LanmanServer",
+                         "description":  "Сервер",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "LanmanWorkstation",
+                         "description":  "Рабочая станция",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "lfsvc",
+                         "description":  "Служба географического положения",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "LicenseManager",
+                         "description":  "Служба Windows License Manager",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "lltdio",
+                         "description":  "Ответчик обнаружения топологии канального уровня",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "lltdsvc",
+                         "description":  "Тополог канального уровня",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "lmhosts",
+                         "description":  "Модуль поддержки NetBIOS через TCP/IP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "LocalKdc",
+                         "description":  "Локальный центр распространения ключей Kerberos",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "luafv",
+                         "description":  "Виртуализация файла контроля учетных записей",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "LxpSvc",
+                         "description":  "Служба Language Experience Service",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MapsBroker",
+                         "description":  "Диспетчер скачанных карт",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "MbbCx",
+                         "description":  "MBB Network Adapter Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "McmSvc",
+                         "description":  "Служба управления подключениями мобильных устройств",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "McpManagementService",
+                         "description":  "McpManagementService",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MDCoreSvc",
+                         "description":  "@%ProgramFiles%\\Windows Defender\\MpAsDesc.dll,-245",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "MessagingService",
+                         "description":  "MessagingService",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "midisrv",
+                         "description":  "Служба Windows MIDI",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MMCSS",
+                         "description":  "Multimedia Class Scheduler",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "Modem",
+                         "description":  "Modem",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "mpsdrv",
+                         "description":  "Windows Defender Firewall Authorization Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "mpssvc",
+                         "description":  "Брандмауэр Защитника Windows",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "MRxDAV",
+                         "description":  "Драйвер перенаправителя клиентов WebDav",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "mrxsmb",
+                         "description":  "Оболочка и модуль мини-перенаправителя SMB",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "mrxsmb20",
+                         "description":  "Мини-перенаправитель SMB 2.0",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MsBridge",
+                         "description":  "MAC-мост (Майкрософт)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MSDTC",
+                         "description":  "Координатор распределенных транзакций",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MSiSCSI",
+                         "description":  "Служба инициатора Майкрософт iSCSI",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "msiserver",
+                         "description":  "Установщик Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MsLldp",
+                         "description":  "Протокол Microsoft LLDP",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "MsQuic",
+                         "description":  "MsQuic",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MsQuicPrev",
+                         "description":  "MSQUIC",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MsRPC",
+                         "description":  "MsRPC",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MsSecFlt",
+                         "description":  "@%SystemRoot%\\System32\\Drivers\\mssecflt.sys,-1001",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "MsSecWfp",
+                         "description":  "@%SystemRoot%\\System32\\Drivers\\mssecwfp.sys,-1001",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NativeWifiP",
+                         "description":  "Фильтр NativeWiFi",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NaturalAuthentication",
+                         "description":  "Проверка подлинности на основе физических параметров",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NcaSvc",
+                         "description":  "Помощник по подключению к сети",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NcbService",
+                         "description":  "Посредник подключений к сети",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NcdAutoSetup",
+                         "description":  "Автоматическая настройка сетевых устройств",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NdisImPlatform",
+                         "description":  "Протокол мультиплексора сетевого адаптера (Майкрософт)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NdisTapi",
+                         "description":  "NDIS-драйвер TAPI удаленного доступа",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Ndisuio",
+                         "description":  "NDIS Usermode I/O Protocol",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ndiswanlegacy",
+                         "description":  "Устаревшая версия NDIS-драйвера глобальной сети для удаленного доступа",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NDKPerf",
+                         "description":  "NDKPerf Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NDKPing",
+                         "description":  "NDKPing Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ndproxy",
+                         "description":  "NDIS Proxy Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Ndu",
+                         "description":  "Windows Network Data Usage Monitoring Driver",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "NetAdapterCx",
+                         "description":  "Network Adapter WDF Class Extension Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Netlogon",
+                         "description":  "Сетевой вход в систему",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Netman",
+                         "description":  "Сетевые подключения",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "netprofm",
+                         "description":  "Служба списка сетей",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NetSetupSvc",
+                         "description":  "Служба настройки сети",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "NgcCtnrSvc",
+                         "description":  "Контейнер службы Microsoft Passport",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NgcSvc",
+                         "description":  "Служба Microsoft Passport",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NlaSvc",
+                         "description":  "Сведения о расположении в сети",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "NPSMSvc",
+                         "description":  "Служба диспетчера текущего сеанса",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "nsi",
+                         "description":  "Служба интерфейса сохранения сети",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "Ntfs",
+                         "description":  "Ntfs",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "P9Rdr",
+                         "description":  "Plan 9 Redirector Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "P9RdrService",
+                         "description":  "P9RdrService",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PcaSvc",
+                         "description":  "Служба помощника по совместимости программ",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PEAUTH",
+                         "description":  "PEAUTH",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "PeerDistSvc",
+                         "description":  "@%SystemRoot%\\system32\\peerdistsvc.dll,-9000",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PenService",
+                         "description":  "PenService",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "perceptionsimulation",
+                         "description":  "Служба имитации восприятия Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PerfHost",
+                         "description":  "Хост библиотеки счетчика производительности",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PhoneSvc",
+                         "description":  "Телефонная связь",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PimIndexMaintenanceSvc",
+                         "description":  "Служба контактных данных",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PktMon",
+                         "description":  "Packet Monitor Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PktMonApi",
+                         "description":  "Packet Monitor Export Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "pla",
+                         "description":  "Журналы и оповещения производительности",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PolicyAgent",
+                         "description":  "Агент политики IPsec",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "portcfg",
+                         "description":  "portcfg",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PrintDeviceConfigurationService",
+                         "description":  "Служба настройки принтеров",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PrintScanBrokerService",
+                         "description":  "PrintScanBrokerService",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PrintWorkflowUserSvc",
+                         "description":  "PrintWorkflow",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "PushToInstall",
+                         "description":  "Служба PushToInstall Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "QWAVE",
+                         "description":  "Quality Windows Audio Video Experience",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "QWAVEdrv",
+                         "description":  "Драйвер QWAVE",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RasAcd",
+                         "description":  "Remote Access Auto Connection Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RasAuto",
+                         "description":  "Диспетчер автоматических подключений удаленного доступа",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RasMan",
+                         "description":  "Диспетчер подключений удаленного доступа",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RDPDR",
+                         "description":  "Драйвер перенаправителя устройств удаленных рабочих столов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ReFS",
+                         "description":  "ReFS",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "refsdedupsvc",
+                         "description":  "Служба Dedup ReFS",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ReFSv1",
+                         "description":  "ReFSv1",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RetailDemo",
+                         "description":  "Служба демонстрации магазина",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RmSvc",
+                         "description":  "Служба управления радио",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "RpcLocator",
+                         "description":  "Локатор удаленного вызова процедур (RPC)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "rspndr",
+                         "description":  "Отвечающее устройство обнаружения топологии канального уровня",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "SCardSvr",
+                         "description":  "Смарт-карта",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ScDeviceEnum",
+                         "description":  "Служба перечисления устройств чтения смарт-карт",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "scfilter",
+                         "description":  "Драйвер фильтра смарт-карты класса PnP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SCPolicySvc",
+                         "description":  "Политика удаления смарт-карт",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SDRSVC",
+                         "description":  "Программа архивации данных",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "seclogon",
+                         "description":  "Вторичный вход в систему",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SecurityHealthService",
+                         "description":  "Служба \"Безопасность Windows\"",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SEMgrSvc",
+                         "description":  "Диспетчер платежей и NFC/защищенных элементов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SENS",
+                         "description":  "Служба уведомления о системных событиях",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "Sense",
+                         "description":  "@%ProgramFiles%\\Windows Defender Advanced Threat Protection\\MsSense.exe,-1001",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SensorDataService",
+                         "description":  "Служба данных датчиков",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SensorService",
+                         "description":  "Служба датчиков",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SensrSvc",
+                         "description":  "Служба наблюдения за датчиками",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SerCx",
+                         "description":  "Serial UART Support Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SerCx2",
+                         "description":  "Serial UART Support Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SessionEnv",
+                         "description":  "Настройка сервера удаленных рабочих столов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SharedAccess",
+                         "description":  "Общий доступ к подключению к Интернету (ICS)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ShellHWDetection",
+                         "description":  "Определение оборудования оболочки",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "smphost",
+                         "description":  "SMP дисковых пространств (Майкрософт)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SmsRouter",
+                         "description":  "Служба маршрутизатора SMS Microsoft Windows.",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SNMPTrap",
+                         "description":  "Ловушка SNMP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "spaceparser",
+                         "description":  "spaceparser",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SpbCx",
+                         "description":  "Simple Peripheral Bus Support Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Spooler",
+                         "description":  "Диспетчер печати",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "sppsvc",
+                         "description":  "Защита программного обеспечения",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "srv2",
+                         "description":  "Драйвер сервера Server SMB 2.xxx",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "srvnet",
+                         "description":  "srvnet",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SSDPSRV",
+                         "description":  "Обнаружение SSDP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SstpSvc",
+                         "description":  "Служба SSTP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "StiSvc",
+                         "description":  "Служба загрузки изображений Windows (WIA)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "storqosflt",
+                         "description":  "Драйвер-фильтр качества обслуживания хранилища",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "StorSvc",
+                         "description":  "Служба хранилища",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "svsvc",
+                         "description":  "Быстрая проверка",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "swprv",
+                         "description":  "Программный поставщик теневого копирования (Microsoft)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "SysMain",
+                         "description":  "SysMain",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "TapiSrv",
+                         "description":  "Телефония",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Tcpip6",
+                         "description":  "@todo.dll,-100;Microsoft IPv6 Protocol Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "tcpipreg",
+                         "description":  "@%SystemRoot%\\System32\\drivers\\tcpipreg.sys,-10110,",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "TermService",
+                         "description":  "Службы удаленных рабочих столов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "TextInputManagementService",
+                         "description":  "Служба управления текстовым вводом",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "TieringEngineService",
+                         "description":  "Управление уровнями хранилища",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "TimeBrokerSvc",
+                         "description":  "Брокер времени",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "TokenBroker",
+                         "description":  "Диспетчер учетных веб-записей",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "TrkWks",
+                         "description":  "Клиент отслеживания изменившихся связей",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "TroubleshootingSvc",
+                         "description":  "Рекомендованная служба устранения неполадок",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "TsUsbFlt",
+                         "description":  "Драйвер-фильтр класса USB-концентратора удаленного рабочего стола",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "tunnel",
+                         "description":  "Драйвер адаптера минипорта для туннеля (Майкрософт)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UcmCx0101",
+                         "description":  "USB Connector Manager KMDF Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UcmTcpciCx0101",
+                         "description":  "UCM-TCPCI KMDF Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UcmUcsiCx0101",
+                         "description":  "UCM-UCSI KMDF Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UCPD",
+                         "description":  "UCPD",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "Ucx01000",
+                         "description":  "USB Host Support Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UdeCx",
+                         "description":  "USB Device Emulation Support Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UdkUserSvc",
+                         "description":  "Пользовательская служба UDK",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Ufx01000",
+                         "description":  "USB Function Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UmRdpService",
+                         "description":  "Перенаправитель портов пользовательского режима служб удаленных рабочих столов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UnionFS",
+                         "description":  "UnionFS",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "UnistoreSvc",
+                         "description":  "Служба хранения данных пользователя",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "upnphost",
+                         "description":  "Узел универсальных PNP-устройств",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UrsCx01000",
+                         "description":  "USB Role-Switch Support Library",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UserDataSvc",
+                         "description":  "Служба доступа к данным пользователя",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "UsoSvc",
+                         "description":  "Служба оркестратора обновлений",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "VaultSvc",
+                         "description":  "Диспетчер учетных данных",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vds",
+                         "description":  "Виртуальный диск",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "VerifierExt",
+                         "description":  "Расширение средства проверки драйверов",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmicguestinterface",
+                         "description":  "Интерфейс гостевой службы Hyper-V",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmicheartbeat",
+                         "description":  "Служба пульса (Hyper-V)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmickvpexchange",
+                         "description":  "Служба обмена данными (Hyper-V)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmicrdv",
+                         "description":  "Служба виртуализации удаленных рабочих столов Hyper-V",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmicshutdown",
+                         "description":  "Служба завершения работы в качестве гостя (Hyper-V)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmictimesync",
+                         "description":  "Служба синхронизации времени Hyper-V",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmicvmsession",
+                         "description":  "Служба Hyper-V PowerShell Direct",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "vmicvss",
+                         "description":  "Служба запросов на теневое копирование томов Hyper-V",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "VSS",
+                         "description":  "Теневое копирование тома",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "W32Time",
+                         "description":  "Служба времени Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WaaSMedicSvc",
+                         "description":  "WaaSMedicSvc",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WalletService",
+                         "description":  "Служба кошелька",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wanarp",
+                         "description":  "Драйвер IP ARP для удаленного доступа",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wanarpv6",
+                         "description":  "Драйвер IPv6 ARP для удаленного доступа",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WarpJITSvc",
+                         "description":  "Warp JIT Service",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wbengine",
+                         "description":  "Служба модуля архивации на уровне блоков",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WbioSrvc",
+                         "description":  "Биометрическая служба Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wcifs",
+                         "description":  "Windows Container Isolation",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "wcncsvc",
+                         "description":  "Немедленные подключения Windows - регистратор настройки",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WdiServiceHost",
+                         "description":  "Узел службы диагностики",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WdiSystemHost",
+                         "description":  "Узел системы диагностики",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wdiwifi",
+                         "description":  "WDI Driver Framework",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WdmCompanionFilter",
+                         "description":  "WdmCompanionFilter",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WdNisDrv",
+                         "description":  "@%ProgramFiles%\\Windows Defender\\MpAsDesc.dll,-370",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WdNisSvc",
+                         "description":  "@%ProgramFiles%\\Windows Defender\\MpAsDesc.dll,-320",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WebClient",
+                         "description":  "Веб-клиент",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "webthreatdefsvc",
+                         "description":  "@%systemroot%\\system32\\webthreatdefsvc.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "webthreatdefusersvc",
+                         "description":  "@%systemroot%\\system32\\webthreatdefusersvc.dll,-100",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "Wecsvc",
+                         "description":  "Сборщик событий Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WEPHOSTSVC",
+                         "description":  "Служба узла поставщика шифрования Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wercplsupport",
+                         "description":  "Поддержка панели управления \"Отчеты о проблемах\"",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WerSvc",
+                         "description":  "@%SystemRoot%\\System32\\wersvc.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WFDSConMgrSvc",
+                         "description":  "Служба диспетчера подключений служб Wi-Fi Direct",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "whesvc",
+                         "description":  "Работоспособность и оптимизированные взаимодействия Windows",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "WiaRpc",
+                         "description":  "События получения неподвижных изображений",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "Wificx",
+                         "description":  "Wifi Network Adapter Class Extension",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WIMMount",
+                         "description":  "WIMMount",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WinAccelCx0101",
+                         "description":  "Microsoft Accelerator Class Extension Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WinDefend",
+                         "description":  "@%ProgramFiles%\\Windows Defender\\MpAsDesc.dll,-310",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "WinHttpAutoProxySvc",
+                         "description":  "Служба автоматического обнаружения веб-прокси WinHTTP",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WinNat",
+                         "description":  "Драйвер NAT Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WinRM",
+                         "description":  "Служба удаленного управления Windows (WS-Management)",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wisvc",
+                         "description":  "Служба предварительной оценки Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WlanSvc",
+                         "description":  "Служба автонастройки WLAN",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wlidsvc",
+                         "description":  "Помощник по входу в учетную запись Майкрософт",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wlpasvc",
+                         "description":  "Служба помощника по локальному профилю",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WManSvc",
+                         "description":  "Служба управления Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wmiApSrv",
+                         "description":  "Адаптер производительности WMI",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WpcMonSvc",
+                         "description":  "Родительский контроль",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WPDBusEnum",
+                         "description":  "Служба перечислителя переносных устройств",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WpdUpFltr",
+                         "description":  "WPD Upper Class Filter Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WpnService",
+                         "description":  "Служба системы push-уведомлений Windows",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "WpnUserService",
+                         "description":  "Пользовательская служба push-уведомлений Windows",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "WSAIFabricSvc",
+                         "description":  "WSAIFabricSvc",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "wscsvc",
+                         "description":  "Центр обеспечения безопасности",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "WSearch",
+                         "description":  "Windows Search",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "wtd",
+                         "description":  "@%SystemRoot%\\system32\\drivers\\wtd.sys,-1000",
+                         "start":  2,
+                         "startLabel":  "Automatic"
+                     },
+                     {
+                         "name":  "wuauserv",
+                         "description":  "Центр обновления Windows",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WudfPf",
+                         "description":  "User Mode Driver Frameworks Platform Driver",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "wuqisvc",
+                         "description":  "Аналитика качества и использования Майкрософт",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "WwanSvc",
+                         "description":  "Автонастройка WWAN",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "XblAuthManager",
+                         "description":  "Диспетчер проверки подлинности Xbox Live",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "XblGameSave",
+                         "description":  "Сохранение игр на Xbox Live",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "XboxGipSvc",
+                         "description":  "Xbox Accessory Management Service",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "XboxNetApiSvc",
+                         "description":  "Сетевая служба Xbox Live",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ZTDNS",
+                         "description":  "@%SystemRoot%\\system32\\drivers\\ztdns.sys,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     },
+                     {
+                         "name":  "ZTHELPER",
+                         "description":  "@%SystemRoot%\\System32\\zthelper.dll,-100",
+                         "start":  3,
+                         "startLabel":  "Manual"
+                     }
+                 ]
+}

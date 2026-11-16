@@ -1,0 +1,36 @@
+﻿{
+    "SystemApps":  [
+                       {
+                           "DisplayName":  "Microsoft.BioEnrollment",
+                           "PackageName":  "Microsoft.BioEnrollment_10.0.19587.1000_neutral__cw5n1h2txyewy"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.MicrosoftEdgeDevToolsClient",
+                           "PackageName":  "Microsoft.MicrosoftEdgeDevToolsClient_1000.25128.1000.0_neutral_neutral_8wekyb3d8bbwe"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.Windows.AssignedAccessLockApp",
+                           "PackageName":  "Microsoft.Windows.AssignedAccessLockApp_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.Windows.ContentDeliveryManager",
+                           "PackageName":  "Microsoft.Windows.ContentDeliveryManager_10.0.26100.1_neutral_neutral_cw5n1h2txyewy"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.Windows.PeopleExperienceHost",
+                           "PackageName":  "Microsoft.Windows.PeopleExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.Windows.SecureAssessmentBrowser",
+                           "PackageName":  "Microsoft.Windows.SecureAssessmentBrowser_10.0.26100.1_neutral_neutral_cw5n1h2txyewy"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.Windows.XGpuEjectDialog",
+                           "PackageName":  "Microsoft.Windows.XGpuEjectDialog_10.0.26100.1_neutral_neutral_cw5n1h2txyewy"
+                       },
+                       {
+                           "DisplayName":  "Microsoft.XboxGameCallableUI",
+                           "PackageName":  "Microsoft.XboxGameCallableUI_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy"
+                       }
+                   ]
+}

@@ -1,0 +1,200 @@
+﻿{
+    "SystemApps":  [
+                       {
+                           "PackageName":  "Microsoft.AAD.BrokerPlugin_1000.19580.1000.2_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.AAD.BrokerPlugin"
+                       },
+                       {
+                           "PackageName":  "Microsoft.AccountsControl_10.0.26100.1_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.AccountsControl"
+                       },
+                       {
+                           "PackageName":  "Microsoft.AIFabric.CBS.1.6_1.6.951.100_x64__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.AIFabric.CBS.1.6"
+                       },
+                       {
+                           "PackageName":  "Microsoft.AsyncTextService_10.0.26100.1_neutral__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.AsyncTextService"
+                       },
+                       {
+                           "PackageName":  "Microsoft.BioEnrollment_10.0.19587.1000_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.BioEnrollment"
+                       },
+                       {
+                           "PackageName":  "Microsoft.CredDialogHost_10.0.19595.1001_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.CredDialogHost"
+                       },
+                       {
+                           "PackageName":  "Microsoft.ECApp_10.0.26100.9278_neutral__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.ECApp"
+                       },
+                       {
+                           "PackageName":  "Microsoft.LockApp_10.0.26100.9278_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.LockApp"
+                       },
+                       {
+                           "PackageName":  "Microsoft.MicrosoftEdgeDevToolsClient_1000.25128.1000.0_neutral_neutral_8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.MicrosoftEdgeDevToolsClient"
+                       },
+                       {
+                           "PackageName":  "Microsoft.UI.Xaml.CBS_9.2603.18001.0_x64__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.UI.Xaml.CBS"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Win32WebViewHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Win32WebViewHost"
+                       },
+                       {
+                           "PackageName":  "F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.AddSuggestedFoldersToLibraryDialog"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.AppRep.ChxApp_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.AppRep.ChxApp"
+                       },
+                       {
+                           "PackageName":  "E2A4F912-2574-4A75-9BB0-0D023378592B_10.0.19640.1000_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.AppResolverUX"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.AssignedAccessLockApp_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.AssignedAccessLockApp"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.AugLoop.CBS_1.1126.2131.0_x64__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.Windows.AugLoop.CBS"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.CapturePicker_10.0.19580.1000_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.CapturePicker"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.CloudExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.CloudExperienceHost"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.ContentDeliveryManager_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.ContentDeliveryManager"
+                       },
+                       {
+                           "PackageName":  "c5e2524a-ea46-4f67-841f-6a9465d9d515_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.FileExplorer"
+                       },
+                       {
+                           "PackageName":  "1527c705-839a-4832-9118-54d4Bd6a0c89_10.0.19640.1000_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.FilePicker"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.NarratorQuickStart_10.0.26100.1_neutral_neutral_8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.Windows.NarratorQuickStart"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.OOBENetworkCaptivePortal_10.0.26569.1000_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.OOBENetworkCaptivePortal"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.OOBENetworkConnectionFlow_10.0.26569.1000_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.OOBENetworkConnectionFlow"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.ParentalControls_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.ParentalControls"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.PeopleExperienceHost_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.PeopleExperienceHost"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.PinningConfirmationDialog_1000.25140.1001.0_neutral__cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.PinningConfirmationDialog"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.PrintQueueActionCenter_1.0.2.0_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.PrintQueueActionCenter"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.SecureAssessmentBrowser_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.SecureAssessmentBrowser"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.ShellExperienceHost_10.0.26100.8115_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.ShellExperienceHost"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.StartMenuExperienceHost_10.0.26100.4768_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.StartMenuExperienceHost"
+                       },
+                       {
+                           "PackageName":  "Microsoft.Windows.XGpuEjectDialog_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.Windows.XGpuEjectDialog"
+                       },
+                       {
+                           "PackageName":  "Microsoft.WindowsAppRuntime.CBS.1.6_6000.900.156.100_x64__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.WindowsAppRuntime.CBS.1.6"
+                       },
+                       {
+                           "PackageName":  "Microsoft.WindowsAppRuntime.CBS.2_2.2.0.100_x64__8wekyb3d8bbwe",
+                           "DisplayName":  "Microsoft.WindowsAppRuntime.CBS.2"
+                       },
+                       {
+                           "PackageName":  "Microsoft.XboxGameCallableUI_1000.25128.1000.0_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Microsoft.XboxGameCallableUI"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.61869720.Voiess_1000.26100.9278.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.61869720.Voiess"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.61869721.Livtop_1000.26100.9278.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.61869721.Livtop"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.61869722.Speion_1000.26100.9278.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.61869722.Speion"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.61869836.InpApp_1000.26100.9278.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.61869836.InpApp"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.Client.CBS_1000.26100.360.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.Client.CBS"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.Client.Core_1000.26100.133.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.Client.Core"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.Client.CoreAI_1000.26100.9457.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.Client.CoreAI"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.Client.FileExp_1000.26100.10.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.Client.FileExp"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.Client.OOBE_1000.26100.55.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.Client.OOBE"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.Client.Photon_1000.26100.10.0_x64__cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.Client.Photon"
+                       },
+                       {
+                           "PackageName":  "MicrosoftWindows.UndockedDevKit_10.0.26100.1_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "MicrosoftWindows.UndockedDevKit"
+                       },
+                       {
+                           "PackageName":  "Windows.CBSPreview_10.0.19580.1000_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Windows.CBSPreview"
+                       },
+                       {
+                           "PackageName":  "windows.immersivecontrolpanel_10.0.8.1000_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "windows.immersivecontrolpanel"
+                       },
+                       {
+                           "PackageName":  "Windows.PrintDialog_6.2.3.0_neutral_neutral_cw5n1h2txyewy",
+                           "DisplayName":  "Windows.PrintDialog"
+                       }
+                   ]
+}

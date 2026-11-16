@@ -1,0 +1,54 @@
+﻿{
+    "Services":  [
+                     {
+                         "description":  "@%SystemRoot%\\system32\\diagtrack.dll,-3001",
+                         "name":  "DiagTrack",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Служба политики диагностики",
+                         "name":  "DPS",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Служба \"Обновление Microsoft Edge\" (edgeupdate)",
+                         "name":  "edgeupdate",
+                         "start":  4
+                     },
+                     {
+                         "description":  "Служба \"Обновление Microsoft Edge\" (edgeupdatem)",
+                         "name":  "edgeupdatem",
+                         "start":  4
+                     },
+                     {
+                         "description":  "Диспетчер скачанных карт",
+                         "name":  "MapsBroker",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Брандмауэр Защитника Windows",
+                         "name":  "mpssvc",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Диспетчер печати",
+                         "name":  "Spooler",
+                         "start":  3
+                     },
+                     {
+                         "description":  "SysMain",
+                         "name":  "SysMain",
+                         "start":  3
+                     },
+                     {
+                         "description":  "@%ProgramFiles%\\Windows Defender\\MpAsDesc.dll,-310",
+                         "name":  "WinDefend",
+                         "start":  3
+                     },
+                     {
+                         "description":  "Центр обеспечения безопасности",
+                         "name":  "wscsvc",
+                         "start":  3
+                     }
+                 ]
+}

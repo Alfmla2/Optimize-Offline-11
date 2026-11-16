@@ -1,0 +1,18 @@
+﻿{
+    "PackageName":  [
+                        "Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.9457",
+                        "Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~ru-RU~10.0.26100.9457",
+                        "Microsoft-Windows-Ethernet-Client-Intel-E2f68-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457",
+                        "Microsoft-Windows-Ethernet-Client-Realtek-Rtcx21x64-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457",
+                        "Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~10.0.26100.1",
+                        "Microsoft-Windows-FodMetadataServicing-Desktop-CompDB-Package~31bf3856ad364e35~amd64~~10.0.26100.1",
+                        "Microsoft-Windows-FodMetadataServicing-Desktop-Metadata-Package~31bf3856ad364e35~amd64~~10.0.26100.9457",
+                        "Microsoft-Windows-Licenses-EnterpriseS-Package~31bf3856ad364e35~amd64~~10.0.26100.8037",
+                        "Microsoft-Windows-Licenses-EnterpriseS-Package~31bf3856ad364e35~amd64~en-US~10.0.26100.8457",
+                        "Microsoft-Windows-Licenses-EnterpriseS-Package~31bf3856ad364e35~amd64~ru-RU~10.0.26100.8457",
+                        "Microsoft-Windows-Wifi-Client-Intel-Netwtw08-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457",
+                        "Microsoft-Windows-Wifi-Client-Intel-Netwtw10-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457",
+                        "Microsoft-Windows-Wifi-Client-Realtek-Rtwlane13-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457",
+                        "Microsoft-Windows-Wifi-Client-Realtek-Rtwlane-FOD-Package~31bf3856ad364e35~amd64~~10.0.26100.9457"
+                    ]
+}
