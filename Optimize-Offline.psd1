@@ -2,7 +2,7 @@
 	===========================================================================
 	 Filename:     	Optimize-Offline.psd1
 	 -------------------------------------------------------------------------
-	 Module Manifest — Home fork (fmla-0.1-24H2)
+	 Module Manifest — Home fork (fmla-0.9.0-24H2)
 	 Based on original Optimize-Offline by Ben White (BenTheGreat)
 	===========================================================================
 #>
